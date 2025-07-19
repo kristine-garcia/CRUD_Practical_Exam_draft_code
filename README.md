@@ -1,2 +1,7 @@
-# CRUD_Practical_Exam_draft_code
-Work in Progress (CRUD_Code)
+**WORK IN PROGRESS CRUD CODE - Practical Exam**
+
+**MEMBERS:**
+
+**KRISTINE GARCIA - AMACC ANGELES**
+**MA. PAULA GUEVARRA - ACLC SAN PABLO**
+**KURT BENEDICT VENERACION - ACLC SAN PABLO**
